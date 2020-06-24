@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "185791249507",
+    "firebase_url": "https://instabook-7fa47.firebaseio.com",
+    "project_id": "instabook-7fa47",
+    "storage_bucket": "instabook-7fa47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185791249507:android:2a7367ba84e4423bf00c56",
+        "android_client_info": {
+          "package_name": "com.example.instabook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185791249507-t29h2nb03h2g1eup548216qspcs9kbaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instabook",
+            "certificate_hash": "5c1ed1498ab67ad423c38e9168897037356835b9"
+          }
+        },
+        {
+          "client_id": "185791249507-oe3rsbkguiap15gko801sc980mfssa49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXwDhikZqtlNeqqpkiUUqstXYRmZQEvq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185791249507-oe3rsbkguiap15gko801sc980mfssa49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
